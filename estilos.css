@@ -74,7 +74,7 @@ hr{
 .showcase{
     width: 100%;
     height: 550px;
-    background: #BBDEFB;
+    background: url(img/fondo.jpg);
     color:#ffffff ;
     padding: 50px;
     display: flex;
@@ -82,7 +82,7 @@ hr{
     align-items: center;
     justify-content: flex-end;
     margin-bottom: 30px;
-    border-radius: 100%;
+    border-radius: 30%;
 }
 .showcase h2{
     font-size: 30px;
