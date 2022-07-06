@@ -333,4 +333,24 @@ hr{
         padding: 0%;
         background-position: top;
     }
+    .cuadrado{
+        display: block;
+    }
+    .cuadrado h2{
+        font-size: 28px;
+    }
+    .news-cards{
+        padding: 20px 0;
+        width: 300px;
+        margin: 0%;
+    }
+    .news-cards img{
+        width: 100%;
+    }
+    .news-cards p{
+        width: 360px;
+    }
+    .cards-banner-one{
+
+    }
 }
