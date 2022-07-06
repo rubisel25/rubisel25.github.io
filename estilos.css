@@ -267,11 +267,14 @@ hr{
         bottom: -280px;
     }
 }
-@media (max-width: 500px){
+@media (max-width: 600px){
     .showcase{
         background-size: contain;
         border-radius: 0;
         margin-bottom: 2px;
+    }
+    .cuadrado{
+        width: 100%;
     }
     .news-cards{
         grid-template-columns: 1fr;
