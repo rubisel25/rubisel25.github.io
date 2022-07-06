@@ -145,7 +145,6 @@ hr{
     margin-bottom: auto;
     margin: 20px;
 }
-
 /* News Cards */
 .news-cards{
     display: grid;
@@ -198,7 +197,6 @@ hr{
     margin: 10px 10 20px 0;
 }
 @media (max-width: 700px){
-
     .menu-btn{
         display: block;
     }
@@ -231,7 +229,6 @@ hr{
     .news-cards{
         grid-template-columns: repeat(2, 1fr);
     }
-
     .cards-banner-one{
         width: 100%;
         height: 400px;
@@ -332,7 +329,6 @@ hr{
         width: 95%;
         margin: auto;
     }
-    
     .showcase{
         padding: 0%;
         background-position: top;
@@ -381,7 +377,6 @@ hr{
         width: 95%;
         margin: auto;
     }
-    
     .showcase{
         padding: 0%;
         background-position: top;
@@ -428,7 +423,6 @@ hr{
         width: 95%;
         margin: auto;
     }
-    
     .showcase{
         padding: 0%;
         background-position: top;
