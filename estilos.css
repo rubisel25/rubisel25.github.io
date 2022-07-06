@@ -267,7 +267,7 @@ hr{
         bottom: -280px;
     }
 }
-@media (max-width: 600px){
+@media (max-width: 500px){
     .showcase{
         background-size: contain;
         border-radius: 0;
@@ -284,7 +284,7 @@ hr{
         padding-bottom: 15px;
     }
     .news-cards img{
-        width: 400px;
+        width: 450px;
         height: auto;
     }
     .news-cards p{
@@ -325,5 +325,12 @@ hr{
         height: auto;
         margin: 0;
         padding: 10px 0;
+    }
+}
+@media (max-width:400px){
+    
+    .showcase{
+        padding: 0%;
+        background-position: top;
     }
 }
