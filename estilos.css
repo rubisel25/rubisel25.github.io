@@ -368,4 +368,11 @@ hr{
     .fin{
         bottom: -130px;
     }
+    .Propuestas{
+        width: 100%;
+    }
+    .Propuestas img{
+        width: 100%;
+        height: auto;
+    }
 }
